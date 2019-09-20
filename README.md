@@ -1,4 +1,6 @@
 ## Setup
+
+[![Build Status](https://travis-ci.org/Nael-Messaoudene/tdd-jest.svg?branch=master)](https://travis-ci.org/Nael-Messaoudene/tdd-jest)
 Using npm :
 
   `npm install` to retrieve jest and dependencies
